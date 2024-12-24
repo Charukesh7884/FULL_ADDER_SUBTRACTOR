@@ -74,7 +74,7 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 
 Developed by: CHARUKESH S
 
-RegisterNumber: 24900862
+RegisterNumber: 212224230044
 
 **Full Adder**
 ```
