@@ -38,6 +38,14 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**Full Adder**
+
+![image](https://github.com/user-attachments/assets/f8afc41a-66e1-4660-a7e1-4b28093ed2d5)
+
+**Full Subtractor**
+
+![image](https://github.com/user-attachments/assets/a51d1be3-da7b-41e3-9888-2c8bbf222b32)
+
 **Procedure**
 
 Full Adder: 
@@ -68,7 +76,7 @@ Developed by: CHARUKESH S
 
 RegisterNumber: 24900862
 
-**Fullull Adder**
+**Full Adder**
 ```
 module fa(a, b, cin, sum, carry);
   input a, b, cin;
