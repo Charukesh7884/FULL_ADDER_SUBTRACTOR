@@ -2,7 +2,7 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-**DATE:25/10/2024**
+**DATE: 25/10/2024**
 
 **AIM:**
 
