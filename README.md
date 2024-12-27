@@ -2,6 +2,8 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
+**DATE:25/10/2024**
+
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -96,7 +98,7 @@ assign Difference = a ^ b ^ Bin;
 endmodule
 
 ```
-**RTL Schematic**
+**RTL DIAGRAM**
 
 **Full Adder**
 
@@ -107,7 +109,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/de00131b-5923-415b-8bc4-0f6de01404bc)
 
 
-**Output/Timing Waveform**
+**Timing Waveform**
 
 **Full Adder**
 
