@@ -90,7 +90,7 @@ endmodule
 ```
 **Full Subtractor**
 ```
-module fs(a,b,bin,difference,borrow);
+module FS(a,b,bin,difference,borrow);
 input a,b,bin;
 output difference,borrow;
 assign difference= ( (a ^ b)^bin);
